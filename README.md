@@ -7,4 +7,4 @@ I'm trying to learn how to use GitHub to impress my friend josediaz80 !!
 
 # Star Trek Quotes  
 
-"Live now. Make now always the most precious time. Now will never come again."
+"Live now. Make now always the most precious time. Now will never come again." - Jean-Luc Picard
