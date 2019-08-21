@@ -12,4 +12,3 @@ I'm trying to learn how to use GitHub to impress my friend josediaz80 !!
 Compassion: that's the one things no machine ever had. Maybe it's the one thing that keeps men ahead of them. - Dr. McCoy  
 
 Live Long and Prosper.  
-Mi8zIG9faV9sZWFybmVkX3RoYXRfZ2l0X2lzX2w=
