@@ -3,7 +3,7 @@
 My First Repository
 
 My first GitHub repository  
-I'm trying to learn how to use GitHub to impress my friend josediaz80 !!  
+I'm trying to learn how to use GitHub to impress my friends !!  
 
 # Star Trek Quotes  
 
